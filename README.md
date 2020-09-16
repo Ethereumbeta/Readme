@@ -1,6 +1,8 @@
 # Readme
 Info about Ethereum Beta. This is not a Code Repo.
-https://ethereumbeta.com
+https://ethereumbeta.com ---> Landing para la Presale.
+https://app.ethereumbeta.com  --->Primera dap desarrollada por la Comunidad Ethereum Beta. 
+
 Hace ya casi 4 años que salió Ethereum. En un principio poca gente entendió que significaba su aparición, pero hoy en día ya se mueven miles de milllones de Dólares a través de los Tokens que se han creado en su Red.
 
 Hoy a salido al mercado la venta de Tokens Serie A de https://ethereumbeta.com con el objetivos de ayudarnos a financiar el desarrollo y la contitución de la empresa.
